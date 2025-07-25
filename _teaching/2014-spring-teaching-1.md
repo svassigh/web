@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced Research Methods"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Required Doctoral Course"
+permalink: /teaching/2014-spring-advanced-research-methods
+venue: "Florida International University, School of Architecture"
 date: 2014-01-01
-location: "City, Country"
+location: "Miami, Florida"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This required doctoral course provides comprehensive training in architectural research methodologies, preparing students for advanced research in the field of architecture and design.
 
-Heading 1
+Course Objectives
 ======
+* Develop understanding of architectural research methodologies
+* Learn advanced research design and implementation techniques
+* Explore qualitative and quantitative research methods in architecture
+* Master academic writing and research presentation skills
 
-Heading 2
+Topics Covered
 ======
-
-Heading 3
-======
+* Research Design and Methodology
+* Literature Review and Critical Analysis
+* Data Collection and Analysis Methods
+* Academic Writing and Publication
+* Research Ethics and Professional Standards

@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Best Practices in Sustainable Building Design"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+category: books
+permalink: /publication/2010-10-01-best-practices-sustainable-building
+excerpt: 'This book provides comprehensive guidance on sustainable building design practices, integrating environmental considerations with architectural design principles.'
+date: 2013-01-01
+venue: 'J. Ross Publishing'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Vassigh, S., Özer, E., & Spiegelhalter, T. (2013). <i>Best Practices in Sustainable Building Design</i>. J. Ross Publishing.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This comprehensive book provides guidance on sustainable building design practices, integrating environmental considerations with architectural design principles. The publication offers practical methodologies and case studies for creating environmentally responsible buildings, making it an essential resource for architects, engineers, and designers committed to sustainable design practices.

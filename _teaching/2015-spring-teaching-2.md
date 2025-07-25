@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 2"
+title: "Advanced Studies in Technology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Required Doctoral Course"
+permalink: /teaching/2015-spring-advanced-studies-technology
+venue: "Florida International University, School of Architecture"
 date: 2015-01-01
-location: "City, Country"
+location: "Miami, Florida"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This required doctoral course examines the impact of emerging technologies on architecture, exploring how new technological developments are transforming the field.
 
-Heading 1
+Course Objectives
 ======
+* Analyze the impact of emerging technologies on architectural practice
+* Explore cutting-edge technological innovations in design and construction
+* Understand the integration of digital tools and computational methods
+* Examine the future of technology in architectural education and practice
 
-Heading 2
+Topics Covered
 ======
-
-Heading 3
-======
+* Emerging Technologies in Architecture
+* Digital Design and Computational Methods
+* Building Information Modeling (BIM)
+* Sustainable Technology Integration
+* Future Trends in Architectural Technology

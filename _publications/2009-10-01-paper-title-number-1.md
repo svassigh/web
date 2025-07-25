@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Building Systems Integration for Enhanced Environmental Performance"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+category: books
+permalink: /publication/2009-10-01-building-systems-integration
+excerpt: 'This influential book examines the integration of building systems for enhanced environmental performance, providing comprehensive guidance for sustainable design practices.'
+date: 2011-01-01
+venue: 'J. Ross Publishing'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Vassigh, S., & Chandler, J. R. (2011). <i>Building Systems Integration for Enhanced Environmental Performance</i>. J. Ross Publishing.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This influential book examines the critical role of building systems integration in achieving enhanced environmental performance. The publication provides comprehensive guidance for architects, engineers, and designers on how to effectively integrate various building systems to optimize sustainability outcomes. The book has become an important resource in the field of sustainable design, offering practical methodologies and case studies for creating environmentally responsible buildings.
