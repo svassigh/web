@@ -4,7 +4,7 @@ collection: teaching
 type: "Required Doctoral Course"
 permalink: /teaching/2015-spring-advanced-studies-technology
 venue: "Florida International University, School of Architecture"
-date: 2015-01-01
+date: 2021-01-01
 location: "Miami, Florida"
 ---
 
